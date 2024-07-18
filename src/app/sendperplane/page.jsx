@@ -14,7 +14,7 @@ import snip5 from "../../../public/snip5.PNG";
 import Carousel from "@/components/Carousel";
 
 const page = () => {
-  //trigger
+
   return (
     <div
       style={{ backgroundColor: "#111827" }}

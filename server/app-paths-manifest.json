@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/powerBi/page": "app/powerBi/page.js",
+  "/sendperplane/page": "app/sendperplane/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/getlouis/page": "app/getlouis/page.js",
+  "/page": "app/page.js"
+}
